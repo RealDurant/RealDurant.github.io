@@ -1,0 +1,75 @@
+body {
+    background-image: url(nbafondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+
+h1 {
+    
+    text-align: center;
+    font-size: 70px;
+    font-family: sans-serif; 
+    
+    
+    
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: 130px;
+    gap: 90px;
+}
+
+.Boston, .Warriors, .Bulls, .Lakers, .Spurs {
+    margin: 0; 
+}
+
+.noticias1 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 100px;
+    gap: 550px;
+
+    padding: 0 20px; 
+}
+.noticias2 {
+    display: flex;
+    justify-content:center; 
+    align-items: center; 
+    margin-top: 100px;
+    gap: 550px;
+    margin: 130px;
+
+    padding: 0 20px; 
+}
+.noticias3 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 100px;
+    gap: 550px;
+
+    padding: 0 20px; 
+}
+
+.noticia {
+    text-align: center; 
+    margin: 0 20px; 
+}
+
+.noticia-imagen {
+    border-radius: 30px;
+   
+}
+
+
+h4 {
+    font-size: 1.5em; 
+    margin-top: 10px; 
+}
