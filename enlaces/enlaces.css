@@ -1,0 +1,58 @@
+body {
+    background-image: url(../nbafondo.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    color: white;
+}
+h1 {
+    
+    text-align: center;
+    font-size: 70px;
+    font-family: sans-serif; 
+ 
+}
+ol {
+    width: 80%;
+    margin: auto;
+    padding: 0;
+    background-color:#ffffff80;
+}
+li {
+    color: rgb(42, 105, 221);
+    list-style-type: none;
+    /*list-style-type: none; quita los numeros de los enlaces*/
+
+    font-size: 2em; 
+    text-align: center;
+}
+.noticias1 {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    margin-top: 100px;
+    gap: 550px;
+
+    padding: 0 20px; 
+}
+.noticias2 {
+    display: flex;
+    justify-content:center; 
+    align-items: center; 
+    margin-top: 100px;
+    gap: 550px;
+    margin: 150px;
+
+    padding: 0 20px; 
+}
+.noticia-imagen {
+    border-radius: 30px;
+   
+}
+footer{
+    
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
