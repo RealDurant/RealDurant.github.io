@@ -18,7 +18,7 @@ body {
 .tituloU{
     text-align: center;
     margin-top: 20px;
-    color: white;
+    color: rgb(188, 154, 92);
     margin-left: 135px;
     font-size: xx-large;
 }
@@ -92,7 +92,7 @@ body {
 }
 .tituloD{
     text-align: right;
-     color: white;
+     color: rgb(188, 154, 92);
      margin-bottom: 20px;
      font-size: xx-large;
      margin-right: 30px;
